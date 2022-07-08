@@ -1,5 +1,6 @@
-package ru.javarush.cryptoanalyzer.efremov.app;
+package ru.javarush.cryptoanalyzer.efremov.toplevel;
 
+import ru.javarush.cryptoanalyzer.efremov.entity.Result;
 import ru.javarush.cryptoanalyzer.efremov.controller.MainController;
 
 import java.util.Arrays;
